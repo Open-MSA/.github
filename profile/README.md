@@ -1,4 +1,6 @@
 
+<img src="image/Open_MSA_logo.svg" width="350px" title="OpenMSA" alt="OpenMSA"></img><br/>
+
 Hello ~
 Welcome OpenMSA !!
 
